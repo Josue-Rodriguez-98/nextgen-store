@@ -1,6 +1,6 @@
 # nextgen-store hecho con :heart:,:coffee: y un poco de :beer:
 
-![License](https://img.shields.io/github/license/<User>/<Repo>.svg) ![Issues](https://img.shields.io/github/issues/<User>/<Repo>.svg) ![forks](https://img.shields.io/github/forks/<User>/<Repo>) ![stars](https://img.shields.io/github/stars/<User>/<Repo>) ![size](https://img.shields.io/github/repo-size/<User>/<Repo>)
+![License](https://img.shields.io/github/license/Josue-Rodriguez-98/nextgen-store.svg) ![Issues](https://img.shields.io/github/issues/Josue-Rodriguez-98/nextgen-store.svg) ![forks](https://img.shields.io/github/forks/Josue-Rodriguez-98/nextgen-store) ![stars](https://img.shields.io/github/stars/Josue-Rodriguez-98/nextgen-store) ![size](https://img.shields.io/github/repo-size/Josue-Rodriguez-98/nextgen-store)
 
 Mini proyecto de la clase Tecnologías Emergentes: Crear una página web con componentes de marketing digital estudiados en clase. 
 
